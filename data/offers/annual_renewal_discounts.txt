@@ -1,0 +1,22 @@
+# NOVATEL CONTRACT RENEWAL & TERM COMMITMENT POLICY (2026-v1)
+# Document ID: DOC-RENEWAL-2026
+# Department: Customer Retention and Portfolio Management
+
+## SECTION 1: ANNUAL COMMITMENT RATE LOCK
+Campaign Code: OFFER-ANNUAL-LOCKIN-15
+Category: RENEWAL
+Target Segment: CONTRACT_RENEWAL_CANDIDATE
+Eligibility Criteria:
+- Minimum Tenure: 12 months.
+- Current Contract Status: Month-to-month only.
+- Eligible Broadband Types: DSL, Fiber optic, or Standalone Phone.
+
+Benefit Description:
+Customers transitioning from flexible Month-to-month terms to an annual 12-Month or 24-Month commitment receive an immediate 15.0% discount on their total recurring monthly plan for the entire 12-month contract period.
+Discount Type: PERCENTAGE
+Discount Value: 15.0%
+Commitment Term: 12 or 24 months.
+Validity: 2026-01-01 through 2026-12-31.
+
+Terms & Conditions:
+Requires agreement to standard 12-month customer commitment agreement. Early termination charges apply if service is cancelled prior to contract fulfillment.

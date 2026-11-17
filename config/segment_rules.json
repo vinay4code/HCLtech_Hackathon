@@ -1,0 +1,45 @@
+{
+  "segments": {
+    "LONG_TERM_LOYAL": {
+      "display_name": "Long-Term Loyal",
+      "description": "Customers who have maintained their relationship for an extended period.",
+      "min_tenure": 48,
+      "requires_active_service": true,
+      "default_priority": 1
+    },
+    "CONSISTENT_SUBSCRIBER": {
+      "display_name": "Consistent Subscriber",
+      "description": "Committed subscribers with multi-year or annual contract stability.",
+      "min_tenure": 12,
+      "eligible_contracts": ["One year", "Two year"],
+      "default_priority": 2
+    },
+    "CONTRACT_RENEWAL_CANDIDATE": {
+      "display_name": "Contract Renewal Candidate",
+      "description": "Tenured customers on flexible month-to-month terms suitable for annual loyalty lock-in.",
+      "min_tenure": 12,
+      "eligible_contracts": ["Month-to-month"],
+      "default_priority": 3
+    },
+    "UPSELL_OPPORTUNITY": {
+      "display_name": "Upsell Opportunity",
+      "description": "Active internet/phone users missing core security, backup, tech support, or entertainment addons.",
+      "evaluated_services": [
+        "OnlineSecurity",
+        "OnlineBackup",
+        "DeviceProtection",
+        "TechSupport",
+        "StreamingTV",
+        "StreamingMovies"
+      ],
+      "min_service_gaps": 1,
+      "default_priority": 4
+    },
+    "EARLY_STAGE_CUSTOMER": {
+      "display_name": "Early-Stage Customer",
+      "description": "Recently onboarded customers requiring active guidance, satisfaction check-ins, and onboarding benefits.",
+      "max_tenure": 6,
+      "default_priority": 5
+    }
+  }
+}

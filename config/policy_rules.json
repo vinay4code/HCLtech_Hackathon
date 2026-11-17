@@ -1,0 +1,26 @@
+{
+  "max_discount_percentage": 50.0,
+  "max_fixed_discount_amount": 100.0,
+  "protected_attributes": [
+    "gender",
+    "SeniorCitizen",
+    "Partner",
+    "Dependents"
+  ],
+  "prohibited_phrases": [
+    "arrest",
+    "lawsuit",
+    "legal action immediately",
+    "court order",
+    "final warning before seizure",
+    "free money",
+    "guaranteed free forever without condition"
+  ],
+  "mandatory_clauses": [
+    "NovaTel",
+    "opt-out",
+    "terms"
+  ],
+  "supported_channels": ["EMAIL", "SMS", "IN_APP"],
+  "consent_enforced": true
+}

@@ -1,0 +1,38 @@
+# NOVATEL CUSTOMER LOYALTY & RETENTION HANDBOOK (2026-v1)
+# Document ID: DOC-LOYALTY-2026
+# Target Audience: Customer Success & Retention Operations
+
+## SECTION 1: LONG-TERM LOYALTY APPRECIATION PROGRAM
+Campaign Code: OFFER-LOYALTY-CREDIT
+Category: LOYALTY
+Applicable Segment: LONG_TERM_LOYAL
+Eligibility Criteria:
+- Minimum Account Tenure: 48 months (4 years) of continuous active telecom service.
+- Eligible Contracts: Month-to-month, One year, Two year.
+- Eligible Service Types: DSL, Fiber optic, or Landline Phone service.
+- Account Status: Active, in good standing.
+
+Benefit Description:
+Eligible loyal subscribers receive an exclusive $15.00 monthly bill credit applied directly to their statement for 3 consecutive billing cycles ($45.00 total customer reward value).
+Discount Type: MONTHLY_CREDIT
+Discount Value: $15.00/month
+Promotion Duration: 3 billing cycles.
+Validity Period: January 1, 2026 through December 31, 2026.
+
+Terms & Conditions:
+Non-transferable. Not redeemable for cash. Credit automatically terminates if the account is cancelled prior to completion of the 3-month credit cycle.
+
+---
+
+## SECTION 2: MILESTONE VIP CONCIERGE ACCESS
+Campaign Code: OFFER-VIP-CONCIERGE
+Category: LOYALTY
+Applicable Segment: LONG_TERM_LOYAL
+Eligibility Criteria:
+- Minimum Account Tenure: 60 months (5 years).
+- All contract types eligible.
+
+Benefit Description:
+Complimentary access to NovaTel Senior Executive Support Desk with zero-wait queue routing and complimentary annual equipment health audits.
+Discount Value: $0.00 (Service Tier Upgrade)
+Validity: Continuous for 5+ year tenured subscribers.

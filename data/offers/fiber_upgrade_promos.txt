@@ -1,0 +1,39 @@
+# NOVATEL BROADBAND SPEED & BANDWIDTH ENHANCEMENT CAMPAIGNS (2026-v2)
+# Document ID: DOC-FIBER-PROMOS-2026
+# Department: Broadband Product Marketing
+
+## SECTION 1: FIBER SPEED BOOST 500MBPS PROMOTION
+Campaign Code: OFFER-FIBER-BOOST-20
+Category: UPGRADE
+Target Segment: UPSELL_OPPORTUNITY
+Eligibility Criteria:
+- Minimum Tenure: 6 months.
+- Eligible Current Services: Fiber optic or DSL.
+- Eligible Contracts: Month-to-month, One year, Two year.
+- Equipment Prerequisite: Optical network terminal or compatible gigabit router.
+
+Promotional Details:
+Eligible customers upgrading to 500Mbps symmetrical fiber receive a 20.0% promotional discount on the standard monthly broadband tier for 6 months.
+Discount Type: PERCENTAGE
+Discount Value: 20.0%
+Valid Window: 2026-01-01 to 2026-12-31.
+
+Terms & Conditions:
+20% discount is applied to the broadband component of the monthly bill only. After the 6-month promotional period expires, standard monthly rates apply. Taxes, regulatory fees, and equipment rental fees are not discounted.
+
+---
+
+## SECTION 2: GIGABIT PRO PERFORMANCE UPGRADE
+Campaign Code: OFFER-GIGA-MAX-30
+Category: UPGRADE
+Target Segment: UPSELL_OPPORTUNITY
+Eligibility Criteria:
+- Minimum Tenure: 12 months.
+- Current Service: Fiber optic.
+- Contract: One year or Two year commitment required.
+
+Promotional Details:
+Upgrade from 500Mbps to 1Gbps with a 30.0% discount for the first 12 months with contract extension.
+Discount Value: 30.0%
+Validity: 2026-01-01 to 2026-12-31.
+Terms: Early termination of fiber contract will forfeit remaining discount credits.
