@@ -18,7 +18,7 @@ Telecommunications providers serve millions of subscribers with differing tenure
 This update introduces two major architectural enhancements:
 1. **Machine Learning-Based Customer Segmentation (Random Forest Classifier)**:
    - High-performance ensemble learning (`scikit-learn` Random Forest) replacing legacy rule-based heuristics.
-   - **99.93% Accuracy**, 99.9% F1-score on stratified test holdout across 6 engagement segments.
+   - **90.93% Accuracy**, 87.20% F1-score on stratified test holdout across 6 engagement segments.
    - 20-feature engineering matrix with strict exclusion of protected demographic attributes (`gender`, `SeniorCitizen`, `Partner`, `Dependents`).
    - Calibrated multi-segment probability assignments and instance-level tree explainability.
 2. **Production Hybrid RAG Architecture**:
